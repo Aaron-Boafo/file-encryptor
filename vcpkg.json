@@ -1,0 +1,8 @@
+{
+  "name": "example-project",
+  "version": "1.0.0",
+  "dependencies": [
+    "fmt",
+    "nlohmann-json"
+  ]
+}
