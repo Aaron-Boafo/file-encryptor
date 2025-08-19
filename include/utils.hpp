@@ -2,5 +2,10 @@
 #include <string>
 
 namespace utils {
-    void myName(std::string name);
+    class Encrypto {
+        public:
+            virtual void error( const std::string & errorMessage );
+            virtual std::string toLowerCase(const std::string &text);
+            virtual std::string toUpperCase(const std::string &text);
+    };
 }

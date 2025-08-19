@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/Aaron Boafo/Desktop/cpp/build/cl",
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DCRYPTOPP_INCLUDE_PREFIX=cryptopp -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -I\"C:\\Users\\Aaron Boafo\\Desktop\\cpp\\include\" -external:I\"C:\\Users\\Aaron Boafo\\Desktop\\cpp\\build\\cl\\vcpkg_installed\\x64-windows\\include\" -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++latest -MDd /utf-8 /FoCMakeFiles\\App.dir\\Debug\\main.cpp.obj /FdCMakeFiles\\App.dir\\Debug\\ /FS -c \"C:\\Users\\Aaron Boafo\\Desktop\\cpp\\main.cpp\"",
+  "file": "C:\\Users\\Aaron Boafo\\Desktop\\cpp\\main.cpp",
+  "output": "CMakeFiles\\App.dir\\Debug\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Aaron Boafo/Desktop/cpp/build/cl",
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DCRYPTOPP_INCLUDE_PREFIX=cryptopp -DFMT_SHARED -DCMAKE_INTDIR=\\\"Debug\\\" -I\"C:\\Users\\Aaron Boafo\\Desktop\\cpp\\include\" -external:I\"C:\\Users\\Aaron Boafo\\Desktop\\cpp\\build\\cl\\vcpkg_installed\\x64-windows\\include\" -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++latest -MDd /utf-8 /FoCMakeFiles\\App.dir\\Debug\\src\\utils.cpp.obj /FdCMakeFiles\\App.dir\\Debug\\ /FS -c \"C:\\Users\\Aaron Boafo\\Desktop\\cpp\\src\\utils.cpp\"",
+  "file": "C:\\Users\\Aaron Boafo\\Desktop\\cpp\\src\\utils.cpp",
+  "output": "CMakeFiles\\App.dir\\Debug\\src\\utils.cpp.obj"
+},
+{
+  "directory": "C:/Users/Aaron Boafo/Desktop/cpp/build/cl",
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DCRYPTOPP_INCLUDE_PREFIX=cryptopp -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -I\"C:\\Users\\Aaron Boafo\\Desktop\\cpp\\include\" -external:I\"C:\\Users\\Aaron Boafo\\Desktop\\cpp\\build\\cl\\vcpkg_installed\\x64-windows\\include\" -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /O2 /Ob2 /DNDEBUG -std:c++latest -MD /utf-8 /FoCMakeFiles\\App.dir\\Release\\main.cpp.obj /FdCMakeFiles\\App.dir\\Release\\ /FS -c \"C:\\Users\\Aaron Boafo\\Desktop\\cpp\\main.cpp\"",
+  "file": "C:\\Users\\Aaron Boafo\\Desktop\\cpp\\main.cpp",
+  "output": "CMakeFiles\\App.dir\\Release\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Aaron Boafo/Desktop/cpp/build/cl",
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DCRYPTOPP_INCLUDE_PREFIX=cryptopp -DFMT_SHARED -DCMAKE_INTDIR=\\\"Release\\\" -I\"C:\\Users\\Aaron Boafo\\Desktop\\cpp\\include\" -external:I\"C:\\Users\\Aaron Boafo\\Desktop\\cpp\\build\\cl\\vcpkg_installed\\x64-windows\\include\" -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /O2 /Ob2 /DNDEBUG -std:c++latest -MD /utf-8 /FoCMakeFiles\\App.dir\\Release\\src\\utils.cpp.obj /FdCMakeFiles\\App.dir\\Release\\ /FS -c \"C:\\Users\\Aaron Boafo\\Desktop\\cpp\\src\\utils.cpp\"",
+  "file": "C:\\Users\\Aaron Boafo\\Desktop\\cpp\\src\\utils.cpp",
+  "output": "CMakeFiles\\App.dir\\Release\\src\\utils.cpp.obj"
+},
+{
+  "directory": "C:/Users/Aaron Boafo/Desktop/cpp/build/cl",
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DCRYPTOPP_INCLUDE_PREFIX=cryptopp -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -I\"C:\\Users\\Aaron Boafo\\Desktop\\cpp\\include\" -external:I\"C:\\Users\\Aaron Boafo\\Desktop\\cpp\\build\\cl\\vcpkg_installed\\x64-windows\\include\" -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /O2 /Ob1 /DNDEBUG -std:c++latest -MD /utf-8 /FoCMakeFiles\\App.dir\\RelWithDebInfo\\main.cpp.obj /FdCMakeFiles\\App.dir\\RelWithDebInfo\\ /FS -c \"C:\\Users\\Aaron Boafo\\Desktop\\cpp\\main.cpp\"",
+  "file": "C:\\Users\\Aaron Boafo\\Desktop\\cpp\\main.cpp",
+  "output": "CMakeFiles\\App.dir\\RelWithDebInfo\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Aaron Boafo/Desktop/cpp/build/cl",
+  "command": "C:\\PROGRA~1\\MICROS~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DCRYPTOPP_INCLUDE_PREFIX=cryptopp -DFMT_SHARED -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -I\"C:\\Users\\Aaron Boafo\\Desktop\\cpp\\include\" -external:I\"C:\\Users\\Aaron Boafo\\Desktop\\cpp\\build\\cl\\vcpkg_installed\\x64-windows\\include\" -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /O2 /Ob1 /DNDEBUG -std:c++latest -MD /utf-8 /FoCMakeFiles\\App.dir\\RelWithDebInfo\\src\\utils.cpp.obj /FdCMakeFiles\\App.dir\\RelWithDebInfo\\ /FS -c \"C:\\Users\\Aaron Boafo\\Desktop\\cpp\\src\\utils.cpp\"",
+  "file": "C:\\Users\\Aaron Boafo\\Desktop\\cpp\\src\\utils.cpp",
+  "output": "CMakeFiles\\App.dir\\RelWithDebInfo\\src\\utils.cpp.obj"
+}
+]

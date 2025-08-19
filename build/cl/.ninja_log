@@ -1,0 +1,29 @@
+# ninja log v7
+111	1968	7772406860948923	CMakeFiles/App.dir/Debug/main.cpp.obj	4769e24203d33ce7
+123	1981	7772406861067754	CMakeFiles/App.dir/Debug/src/utils.cpp.obj	8a401549edcbc493
+1981	4750	7772406879604945	Debug/App.exe	b4f43d4d833c4a84
+6	333615	7772468665431499	CMakeFiles/impl-Debug.ninja	82539396c0bbaebf
+6	333615	7772468665462131	build-Debug.ninja	82539396c0bbaebf
+6	333615	7772468665482266	CMakeFiles/impl-Release.ninja	82539396c0bbaebf
+6	333615	7772468665556168	build-Release.ninja	82539396c0bbaebf
+6	333615	7772468665586564	CMakeFiles/impl-RelWithDebInfo.ninja	82539396c0bbaebf
+6	333615	7772468665642839	build-RelWithDebInfo.ninja	82539396c0bbaebf
+6	333615	7772468665391700	build.ninja	82539396c0bbaebf
+6	333615	7772468665141633	C:/Users/Aaron Boafo/Desktop/cpp/build/cl/cmake_install.cmake	82539396c0bbaebf
+197	2769	7772475305926212	CMakeFiles/App.dir/Debug/main.cpp.obj	4769e24203d33ce7
+12	2278	7772483596784534	CMakeFiles/App.dir/Debug/main.cpp.obj	4769e24203d33ce7
+81	3365	7772484462158489	CMakeFiles/App.dir/Debug/src/utils.cpp.obj	8a401549edcbc493
+3367	6510	7772484494974278	Debug/App.exe	b4f43d4d833c4a84
+58	1851	7772494521047087	CMakeFiles/App.dir/Debug/main.cpp.obj	4769e24203d33ce7
+73	2531	7772494521236020	CMakeFiles/App.dir/Debug/src/utils.cpp.obj	8a401549edcbc493
+2531	3991	7772494545699216	Debug/App.exe	b4f43d4d833c4a84
+15	2428	7772498020488144	CMakeFiles/App.dir/Debug/main.cpp.obj	4769e24203d33ce7
+2429	4655	7772498044668039	Debug/App.exe	b4f43d4d833c4a84
+84	1778	7772506675063939	CMakeFiles/App.dir/Debug/main.cpp.obj	4769e24203d33ce7
+1779	3187	7772506692026618	Debug/App.exe	b4f43d4d833c4a84
+12	1727	7772522187025820	CMakeFiles/App.dir/Debug/src/utils.cpp.obj	8a401549edcbc493
+4	1934	7772522186891510	CMakeFiles/App.dir/Debug/main.cpp.obj	4769e24203d33ce7
+1934	2995	7772522206223847	Debug/App.exe	b4f43d4d833c4a84
+66	4816	7772653717598810	CMakeFiles/App.dir/Debug/src/utils.cpp.obj	8a401549edcbc493
+53	4833	7772653717463262	CMakeFiles/App.dir/Debug/main.cpp.obj	4769e24203d33ce7
+4833	8010	7772653765274504	Debug/App.exe	b4f43d4d833c4a84
